@@ -19,7 +19,7 @@ export default {
 		try {
 
 			// const chatCompletion = await openai.chat.completions.create({
-			// 	model: "gpt-3.5-turbo",	
+			// 	model: "gpt-3.5-turbo",
 			// 	messages: [{ role: "user", content: "Should I trust stock predictions from Dodgy Dave?" }],
 			// 	temperature: 1.1,
 			// 	presence_penalty: 0,
